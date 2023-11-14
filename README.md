@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Carmine</h1>
+<h1 align="center">Hi 👋, <br> I'm Carmine</h1>
 
 💬 I continue to expand my knowledge through university experience and my personal interest.
 
