@@ -1,7 +1,16 @@
 <h1 align="center">Hi 👋, I'm Carmine</h1>
-- 📫 How to reach me **carminecoppola917@gmail.com**
 
-- ⚡ Fun fact **Design is not just what it looks like and feels like. Design is how it works.**
+💬 I continue to expand my knowledge through university experience and my personal interest.
+
+👯 I have a passion for designing new web applications.
+
+👨‍💻 I am passionate about technology and the Apple world.
+
+🌱 I’m currently pursuing a degree in Computer Science at the University of Naples Parthenope.
+
+📫 How to reach me **carminecoppola917@gmail.com**
+
+⚡ Fun fact **Design is not just what it looks like and feels like. Design is how it works.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
