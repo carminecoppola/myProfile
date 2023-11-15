@@ -1,9 +1,5 @@
 # Hi, I'm Carmine
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=2531&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Your Name" width="100" height="100" style="border-radius: 50%;">
-</div>
-
 💬 I continue to expand my knowledge through university experience and my personal interest.
 
 👯 I have a passion for designing new web applications.
