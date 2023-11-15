@@ -1,9 +1,7 @@
 # Hi, I'm Carmine
 
 <div align="center">
-  <div style="width: 100px; height: 100px; border-radius: 50%; overflow: hidden;">
-    <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=2531&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"  style="width: 100%; height: 100%; object-fit: cover;">
-  </div>
+  <img src="https://images.unsplash.com/photo-1511367461989-f85a21fda167?q=80&w=2531&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Your Name" width="100" height="100" style="border-radius: 50%;">
 </div>
 
 💬 I continue to expand my knowledge through university experience and my personal interest.
@@ -20,7 +18,8 @@
 📫 How to reach me:
   - Personal mail: **carminecoppola917@gmail.com**
   - University mail: **carmine.coppola001@studenti.uniparthenope.it**
-  - Linkedin: https: **//linkedin.com/in/https://linkedin.com/in/carmine-coppola-9079b9261**
+  - Linkedin: https: [Carmine Coppola](https://linkedin.com/in/https://linkedin.com/in/carmine-coppola-9079b9261)
+    
     
 ### Web Development
 
