@@ -8,15 +8,13 @@
 
 🌱 I’m currently pursuing a degree in Computer Science at the University of Naples Parthenope.
 
-📫 How to reach me **carminecoppola917@gmail.com**
-
 ⚡ Fun fact **Design is not just what it looks like and feels like. Design is how it works.**
 
 ## Contact
-
-  - Personal mail: carminecoppola917@gmail.com
-  - University mail: carmine.coppola001@studenti.uniparthenope.it
-  - Linkedin: https://linkedin.com/in/https://linkedin.com/in/carmine-coppola-9079b9261
+📫 How to reach me:
+  - Personal mail: **carminecoppola917@gmail.com**
+  - University mail: **carmine.coppola001@studenti.uniparthenope.it**
+  - Linkedin: https: **//linkedin.com/in/https://linkedin.com/in/carmine-coppola-9079b9261**
     
 ### Web Development
 
