@@ -8,7 +8,7 @@
 
 🌱 I’m currently pursuing a degree in Computer Science at the University of Naples Parthenope.
 
-⚡ Fun fact **Design is not just what it looks like and feels like. Design is how it works.**
+⚡ Fun fact **"Design is not just what it looks like and feels like. Design is how it works."**
 
 ## Contact
 📫 How to reach me:
