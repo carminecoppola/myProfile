@@ -6,7 +6,7 @@
 
 👨‍💻 I am passionate about technology and the Apple world.
 
-🌱 I’m currently pursuing a degree in Computer Science at the University of Naples Parthenope.
+🌱 I have a degree in Computer Science from the University of Naples Parthenope.
 
 ⚡ Fun fact **_"Design is not just what it looks like and feels like. Design is how it works."_**
 
@@ -14,8 +14,7 @@
 📫 How to reach me:
   - Personal mail: **carminecoppola917@gmail.com**
   - University mail: **carmine.coppola001@studenti.uniparthenope.it**
-  - Linkedin: https: [Carmine Coppola](https://linkedin.com/in/https://linkedin.com/in/carmine-coppola-9079b9261)
-    
+  - Linkedin: [Carmine Coppola](https://linkedin.com/in/carmine-coppola-9079b9261)
     
 ### Web Development
 
@@ -25,6 +24,7 @@
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
   <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
+  <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
 </p>
 
 ### Programming Languages
@@ -37,6 +37,7 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
   <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
+  <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
 </p>
 
 ### Database Types
