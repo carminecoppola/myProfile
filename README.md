@@ -6,7 +6,9 @@
 
 👨‍💻 I am passionate about technology and the Apple world.
 
-🌱 I have a degree in Computer Science from the University of Naples Parthenope.
+🌱 I have a degree in Computer Science from the University of Naples "Parthenope" with a Grade of 97/110.
+
+💻 I’m currently a Machine Learning and Big Data student at the University of Naples "Parthenope".
 
 ⚡ Fun fact **_"Design is not just what it looks like and feels like. Design is how it works."_**
 
